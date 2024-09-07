@@ -1,0 +1,6 @@
+{
+    "editor.fontWeight": "normal",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    }
+}
