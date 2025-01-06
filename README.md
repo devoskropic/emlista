@@ -10,7 +10,10 @@ Resumen: Este proyecto será una lista clasica de tareas (todo-list) que posteri
 
 ### Mie 4 Sept 2024
 
-    -   Decidí crear este proyecto como la clásica lista de tareas (todo list), el 31 de Agosto de 2024, ya que he estado explorando temas más robustos en flutter, (firebase login, apis, programación funcional para consumir apis y websockets, BLoC, provider, etc) pero no he construído en sí algo completo, y aunque tengo algunos proyectos iniciados, terminé por experimentar con los temas robustos y prefiero iniciar con éste proyecto que es el clásico para un porftolio.
+    -  Decidí crear este proyecto como la clásica lista de tareas (todo list), el 31 de Agosto de 2024, ya que he estado explorando temas más robustos en flutter, (firebase login, apis, programación funcional para consumir apis y websockets, BLoC, provider, etc) pero no he construído en sí algo completo, y aunque tengo algunos proyectos iniciados, terminé por experimentar con los temas robustos y prefiero iniciar con éste proyecto que es el clásico para un porftolio:
+    > ejemplillo de lista
+    > item 2
+    > item 3
 
     - Solamente que, mi lista aceptará drag & drop (reordenable), cada tile tendra más info que solo un título, y además podrás revisar los detalles de cada task.
 
