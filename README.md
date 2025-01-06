@@ -6,7 +6,14 @@ Resumen: Este proyecto será una lista clasica de tareas (todo-list) que posteri
 
 ### Vie 6 Sept 2024
     
-    - home_test added in order to continue experiments before adapting the prod code to home_page.
+- home_test added in order to continue experiments before adapting the prod code to home_page. lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet
+- lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet
+  lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet
+
+- lorem ipsum dolor amet lorem ipsum dolor amet lorem ipsum dolor amet
+- lorem ipsum dolor amet
+
+- lorem ipsum dolor amet lorem ipsum dolor amet 
 
 ### Mie 4 Sept 2024
 
